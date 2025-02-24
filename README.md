@@ -1,4 +1,4 @@
-# Advanced Sonar-Based Mine Detection System
+# Sonar-Based Mine Detection System
 ### Leveraging Machine Learning for Maritime Safety
 
 This project implements state-of-the-art machine learning algorithms to distinguish between underwater mines and rocks using sonar data. The solution directly addresses critical challenges in maritime safety and naval defense operations, achieving up to 80.95% accuracy in object classification with specialized performance metrics for different operational scenarios.
